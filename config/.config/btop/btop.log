@@ -1,0 +1,30 @@
+
+2025/12/02 (21:48:35) | ===> btop++ v.1.4.0
+2025/12/02 (21:48:35) | INFO: Logger set to DEBUG
+2025/12/02 (21:48:35) | DEBUG: Using locale zh_CN.UTF-8
+2025/12/02 (21:48:35) | INFO: Running on /dev/pts/2
+2025/12/02 (21:48:35) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: 无法打开共享目标文件: 没有那个文件或目录
+2025/12/02 (21:48:35) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: 无法打开共享目标文件: 没有那个文件或目录
+2025/12/02 (21:48:35) | WARNING: Intel GPU: Failed to initialize PMU
+2025/12/02 (21:48:35) | DEBUG: Shared::init() : Initialized.
+2025/12/02 (21:48:35) | DEBUG: Loading theme file: /home/w/.config/btop/themes/catppuccin_mocha.theme
+
+2025/12/02 (21:59:51) | ===> btop++ v.1.4.0
+2025/12/02 (21:59:51) | INFO: Logger set to DEBUG
+2025/12/02 (21:59:51) | DEBUG: Using locale zh_CN.UTF-8
+2025/12/02 (21:59:51) | INFO: Running on /dev/pts/0
+2025/12/02 (21:59:51) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: 无法打开共享目标文件: 没有那个文件或目录
+2025/12/02 (21:59:51) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: 无法打开共享目标文件: 没有那个文件或目录
+2025/12/02 (21:59:51) | WARNING: Intel GPU: Failed to initialize PMU
+2025/12/02 (21:59:51) | DEBUG: Shared::init() : Initialized.
+2025/12/02 (21:59:51) | DEBUG: Loading theme file: /home/w/.config/btop/themes/catppuccin_mocha.theme
+
+2025/12/02 (22:10:20) | ===> btop++ v.1.4.0
+2025/12/02 (22:10:20) | INFO: Logger set to DEBUG
+2025/12/02 (22:10:20) | DEBUG: Using locale zh_CN.UTF-8
+2025/12/02 (22:10:20) | INFO: Running on /dev/pts/0
+2025/12/02 (22:10:20) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: 无法打开共享目标文件: 没有那个文件或目录
+2025/12/02 (22:10:20) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: 无法打开共享目标文件: 没有那个文件或目录
+2025/12/02 (22:10:20) | WARNING: Intel GPU: Failed to initialize PMU
+2025/12/02 (22:10:20) | DEBUG: Shared::init() : Initialized.
+2025/12/02 (22:10:20) | DEBUG: Loading theme file: /home/w/.config/btop/themes/catppuccin_mocha.theme

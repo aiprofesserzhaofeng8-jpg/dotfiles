@@ -1,0 +1,11 @@
+[Unit]
+Description=Swayidle idle manager for Niri
+PartOf=graphical-session.target
+
+[Service]
+ExecStart=/home/w/.config/niri/scripts/swayidle.sh
+Restart=always
+
+[Install]
+WantedBy=graphical-session.target
+

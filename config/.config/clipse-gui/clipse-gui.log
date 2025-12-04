@@ -1,0 +1,129 @@
+2025-12-03 20:28:32 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/w/.config/clipse-gui/clipse-gui.log
+2025-12-03 20:28:32 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-03 20:28:32 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-03 20:28:32 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-03 20:28:32 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/w/.config/clipse/clipboard_history.json
+2025-12-03 20:28:32 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-03 20:28:32 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-03 20:28:32 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-03 20:28:32 - clipse_gui.data_manager - DEBUG - Loaded 4 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 20:28:32 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/w/.config/clipse/clipboard_history.json every 300ms
+2025-12-03 20:28:32 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-03 20:28:32 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-03 20:28:32 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-03 20:28:32 - clipse_gui.controller - DEBUG - Populating initial 4 rows.
+2025-12-03 20:28:32 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 3
+2025-12-03 20:33:09 - clipse_gui.data_manager - DEBUG - History file change detected (/home/w/.config/clipse/clipboard_history.json). Reloading...
+2025-12-03 20:33:09 - clipse_gui.data_manager - DEBUG - Loaded 5 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 20:33:09 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-03 20:33:09 - clipse_gui.controller - DEBUG - Populating initial 5 rows.
+2025-12-03 20:33:09 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 4
+2025-12-03 20:35:10 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-12-03 20:35:10 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-03 20:35:10 - clipse_gui.data_manager - DEBUG - Loaded 5 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 20:35:22 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/w/.config/clipse-gui/clipse-gui.log
+2025-12-03 20:35:22 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-03 20:35:22 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-03 20:35:40 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-12-03 20:35:40 - clipse_gui.data_manager - DEBUG - Loaded 5 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 20:37:11 - clipse_gui.data_manager - DEBUG - History file change detected (/home/w/.config/clipse/clipboard_history.json). Reloading...
+2025-12-03 20:37:11 - clipse_gui.data_manager - DEBUG - Loaded 6 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 20:37:11 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-03 20:37:11 - clipse_gui.controller - DEBUG - Populating initial 6 rows.
+2025-12-03 20:37:11 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 5
+2025-12-03 20:39:13 - clipse_gui.data_manager - DEBUG - History file change detected (/home/w/.config/clipse/clipboard_history.json). Reloading...
+2025-12-03 20:39:13 - clipse_gui.data_manager - DEBUG - Loaded 7 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 20:39:13 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-03 20:39:13 - clipse_gui.controller - DEBUG - Populating initial 7 rows.
+2025-12-03 20:39:13 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 6
+2025-12-03 20:39:43 - clipse_gui.data_manager - DEBUG - History file change detected (/home/w/.config/clipse/clipboard_history.json). Reloading...
+2025-12-03 20:39:43 - clipse_gui.data_manager - DEBUG - Loaded 8 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 20:39:43 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-03 20:39:43 - clipse_gui.controller - DEBUG - Populating initial 8 rows.
+2025-12-03 20:39:43 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 7
+2025-12-03 20:39:48 - clipse_gui.data_manager - DEBUG - History file change detected (/home/w/.config/clipse/clipboard_history.json). Reloading...
+2025-12-03 20:39:48 - clipse_gui.data_manager - DEBUG - Loaded 9 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 20:39:48 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-03 20:39:48 - clipse_gui.controller - DEBUG - Populating initial 9 rows.
+2025-12-03 20:39:48 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 8
+2025-12-03 20:45:23 - clipse_gui.data_manager - DEBUG - History file change detected (/home/w/.config/clipse/clipboard_history.json). Reloading...
+2025-12-03 20:45:23 - clipse_gui.data_manager - DEBUG - Loaded 10 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 20:45:23 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-03 20:45:23 - clipse_gui.controller - DEBUG - Populating initial 10 rows.
+2025-12-03 20:45:23 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 9
+2025-12-03 20:46:19 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/w/.config/clipse-gui/clipse-gui.log
+2025-12-03 20:46:19 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-03 20:46:19 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-03 20:46:21 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2025-12-03 20:46:21 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-12-03 20:46:21 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2025-12-03 20:46:22 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2025-12-03 20:46:22 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2025-12-03 20:46:22 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-12-03 20:46:22 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-12-03 20:46:22 - clipse_gui.data_manager - DEBUG - History file change detected (/home/w/.config/clipse/clipboard_history.json). Reloading...
+2025-12-03 20:46:22 - clipse_gui.data_manager - DEBUG - Loaded 10 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 20:46:22 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-03 20:46:22 - clipse_gui.controller - DEBUG - Populating initial 10 rows.
+2025-12-03 20:46:22 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 9
+2025-12-03 20:46:22 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-12-03 20:46:22 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-03 20:46:22 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-03 21:20:50 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/w/.config/clipse-gui/clipse-gui.log
+2025-12-03 21:20:50 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-03 21:20:50 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-03 21:20:50 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-03 21:20:50 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/w/.config/clipse/clipboard_history.json
+2025-12-03 21:20:50 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-03 21:20:50 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-03 21:20:50 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-03 21:20:50 - clipse_gui.data_manager - DEBUG - Loaded 18 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 21:20:50 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/w/.config/clipse/clipboard_history.json every 300ms
+2025-12-03 21:20:50 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-03 21:20:50 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-03 21:20:50 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-03 21:20:50 - clipse_gui.controller - DEBUG - Populating initial 18 rows.
+2025-12-03 21:20:50 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 17
+2025-12-03 21:20:51 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/w/.config/clipse-gui/clipse-gui.log
+2025-12-03 21:20:51 - clipse_gui.app - DEBUG - Application already active - presenting existing window.
+2025-12-03 21:20:51 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-03 21:21:00 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2025-12-03 21:21:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-12-03 21:21:00 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2025-12-03 21:21:00 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2025-12-03 21:21:00 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2025-12-03 21:21:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-12-03 21:21:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-12-03 21:21:00 - clipse_gui.data_manager - DEBUG - History file change detected (/home/w/.config/clipse/clipboard_history.json). Reloading...
+2025-12-03 21:21:00 - clipse_gui.data_manager - DEBUG - Loaded 18 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 21:21:00 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-12-03 21:21:00 - clipse_gui.controller - DEBUG - Populating initial 18 rows.
+2025-12-03 21:21:00 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 17
+2025-12-03 21:21:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-12-03 21:21:00 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-03 21:21:00 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-12-03 21:21:22 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/w/.config/clipse-gui/clipse-gui.log
+2025-12-03 21:21:22 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-12-03 21:21:22 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-12-03 21:21:22 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-12-03 21:21:22 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/w/.config/clipse/clipboard_history.json
+2025-12-03 21:21:22 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-12-03 21:21:22 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-12-03 21:21:22 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-12-03 21:21:22 - clipse_gui.data_manager - DEBUG - Loaded 18 items from /home/w/.config/clipse/clipboard_history.json
+2025-12-03 21:21:22 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/w/.config/clipse/clipboard_history.json every 300ms
+2025-12-03 21:21:22 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-12-03 21:21:22 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-12-03 21:21:22 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-12-03 21:21:22 - clipse_gui.controller - DEBUG - Populating initial 18 rows.
+2025-12-03 21:21:22 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 17
+2025-12-03 21:21:25 - clipse_gui.controller - DEBUG - Row activated: original_index=N/A
+2025-12-03 21:21:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-12-03 21:21:25 - clipse_gui.controller - DEBUG - Hiding window and scheduling paste simulation.
+2025-12-03 21:21:25 - clipse_gui.controller - DEBUG - Attempting paste simulation...
+2025-12-03 21:21:25 - clipse_gui.controller - DEBUG - Executing paste simulation command: ['wtype', '-M', 'ctrl', '-P', 'v', '-p', 'v', '-m', 'ctrl']
+2025-12-03 21:21:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-12-03 21:21:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-12-03 21:21:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-12-03 21:21:25 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI shutting down.
+2025-12-03 21:21:25 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
